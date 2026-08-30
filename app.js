@@ -9,7 +9,8 @@
 ========================================================= */
 
 // Backend server URL
-const API_BASE = "/api";
+
+const API_BASE = "https://fintrack-s4wx.onrender.com/api";
 
 
 /* =========================================================
