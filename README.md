@@ -6,15 +6,7 @@ FinTrack is a full-stack personal finance management web application that helps 
 
 The application provides secure user authentication and allows users to manage their financial activities through an easy-to-use dashboard.
 
-## 🌐 Live Demo
 
-🚀 **Live Application:**  
-https://fintrack-1-bdg8.onrender.com
-
-⚙️ **Backend API:**  
-https://fintrack-s4wx.onrender.com
-
----
 
 ## ✨ Features
 
